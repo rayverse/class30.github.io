@@ -1,2 +1,1 @@
-# class30.github.io
-class 30
+# C-30--Niranjana
